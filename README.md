@@ -166,35 +166,33 @@ Responsibilities include:
 
 #  Module Description
 
-@all 
 
-Module Description
 
-### 7.1 Authentication & Navigation
+### Authentication & Navigation
 
 This module provides secure user registration and login, along with easy navigation through the main sections of the PawCare website.
 
-### 7.2 Pet Adoption Module
+###  Pet Adoption Module
 
 This module allows users to browse available pets, view their details, and submit adoption requests. It also allows users to list pets for adoption, subject to admin approval.
 
-### 7.3 NGO / Shelter / Pet Business Module
+### NGO / Shelter / Pet Business Module
 
 This module allows NGOs, shelters, and eligible pet businesses to register on the platform and list pets for adoption after verification and approval by the admin.
 
-### 7.4 Pet Care Services Module
+### Pet Care Services Module
 
 This module helps pet owners find and book services such as veterinary care, grooming, training, and pet walking. Service providers can manage their services and bookings through their dashboard.
 
-### 7.5 Dashboard Module
+###  Dashboard Module
 
 This module provides separate dashboards for users and administrators. Users can track their adoption requests, pet listings, and service bookings, while administrators can manage users, pets, providers, requests, and bookings.
 
-### 7.6 Resources – Pet Guide Module
+###  Resources – Pet Guide Module
 
 This module provides useful pet-care information and guidance for pet owners. It includes a pet recommendation quiz that helps first-time users identify suitable types of pets based on their lifestyle and needs.
 
-### 7.7 Database Layer
+###  Database Layer
 
 This layer stores and manages important information such as user accounts, pet details, adoption requests, service providers, services, and bookings, ensuring that the platform can access and manage information efficiently.
 
