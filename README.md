@@ -164,29 +164,39 @@ Responsibilities include:
 
 ---
 
-#  System Modules
+#  Module Description
 
-1. Home Page
-2. Adopt a Pet
-3. Pet Details
-4. Adoption Request
-5. Admin Adoption Approval
-6. User Pet Listing
-7. Provider Type Selection
-8. NGO / Shelter Registration
-9. NGO Pet Listing
-10. Pet Services
-11. Service Provider List
-12. Service Provider Profile
-13. Service Booking
-14. Service Provider Dashboard
-15. Normal User Dashboard
-16. Resources — Pet Guide
-17. Pet Recommendation Quiz
-18. Other Pet Care Guides
-19. Admin Dashboard
-20. Login / Register
-21. Database Layer
+@all 
+
+Module Description
+
+### 7.1 Authentication & Navigation
+
+This module provides secure user registration and login, along with easy navigation through the main sections of the PawCare website.
+
+### 7.2 Pet Adoption Module
+
+This module allows users to browse available pets, view their details, and submit adoption requests. It also allows users to list pets for adoption, subject to admin approval.
+
+### 7.3 NGO / Shelter / Pet Business Module
+
+This module allows NGOs, shelters, and eligible pet businesses to register on the platform and list pets for adoption after verification and approval by the admin.
+
+### 7.4 Pet Care Services Module
+
+This module helps pet owners find and book services such as veterinary care, grooming, training, and pet walking. Service providers can manage their services and bookings through their dashboard.
+
+### 7.5 Dashboard Module
+
+This module provides separate dashboards for users and administrators. Users can track their adoption requests, pet listings, and service bookings, while administrators can manage users, pets, providers, requests, and bookings.
+
+### 7.6 Resources – Pet Guide Module
+
+This module provides useful pet-care information and guidance for pet owners. It includes a pet recommendation quiz that helps first-time users identify suitable types of pets based on their lifestyle and needs.
+
+### 7.7 Database Layer
+
+This layer stores and manages important information such as user accounts, pet details, adoption requests, service providers, services, and bookings, ensuring that the platform can access and manage information efficiently.
 
 ---
 
