@@ -1,4 +1,4 @@
-# 🐾 PawCare
+#  PawCare
 
 ### An Online Pet Adoption & Pet Care Services Platform
 
@@ -8,7 +8,7 @@ The platform uses a role-based and **admin-verified workflow** to improve trust,
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Pet adoption and pet-care services are often managed through scattered and informal channels such as social media, word-of-mouth, local contacts, and unregulated listings.
 
@@ -25,7 +25,7 @@ PawCare aims to solve these problems by providing a **single, structured, and ve
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 PawCare combines:
 
@@ -114,10 +114,10 @@ Users can track:
 - Service bookings
 - Listed pets
 
-### 🏢 9. NGO & Shelter Support
+###  9. NGO & Shelter Support
 NGOs and shelters can register on the platform, submit verification documents, and list pets after approval.
 
-### 🛡️ 10. Admin Verification
+###  10. Admin Verification
 The administrator acts as the central verification layer for:
 - Pet listings
 - Service providers
@@ -129,7 +129,7 @@ The administrator acts as the central verification layer for:
 
 # 👤 User Roles
 
-## 🧑 Normal User / Pet Owner
+##  Normal User / Pet Owner
 A normal user can:
 - Browse pets
 - Apply for adoption
@@ -139,7 +139,7 @@ A normal user can:
 - Access pet-care resources
 - Track activities through their dashboard
 
-## 🧑‍⚕️ Service Provider
+##  Service Provider
 Service providers can register as:
 - Veterinarian
 - Groomer
@@ -311,7 +311,7 @@ status
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -350,7 +350,7 @@ This ensures that users can only access functionality appropriate to their role.
 ---
 
 
-# 🤝 Team — BRIJCODERS
+# Team — BRIJCODERS
 
 - **Samriddhi Bansal**
 - **Gaurav Prajapati**
